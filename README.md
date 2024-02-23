@@ -9,4 +9,4 @@
 
 ### :fire: Статистика :
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IrinaKoroban&count_private=true&showicons=true)]()
-<p>[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaKoroban&langs_count=5)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaKoroban&langs_count=5)]()
