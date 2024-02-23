@@ -12,5 +12,4 @@ I am pcb designer and developer of design documentation who became interested in
 
 ### :fire: Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IrinaKoroban&count_private=true&showicons=true)]()
-<p>[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaKoroban&langs_count=5)]()
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaKoroban&langs_count=5)]()
