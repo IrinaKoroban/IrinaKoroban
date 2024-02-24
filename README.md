@@ -6,7 +6,7 @@ I am PCB designer and design documentation developer who became interested in c#
 
 *   🌍  I'm based in Saint-Petersburg.
 *   ✉️  You can contact me at koroban.irina@gmail.com, https://t.me/Iraspberry.
-*   🧠  I'm learning C#, backend, ASP.Net Core.
+*   🧠  I'm learning C#, ASP.Net Core.
 
 
 
