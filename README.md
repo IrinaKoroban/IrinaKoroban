@@ -2,7 +2,6 @@ Hi 👋 My name is Irina Koroban
 ==============================
 
 I am PCB designer and design documentation developer who became interested in c# programming. 
-Аnd I want to change my profession to backend .NET developer soon.
 
 *   🌍  I'm based in Saint-Petersburg.
 *   ✉️  You can contact me at koroban.irina@gmail.com, <a href="https://t.me/Iraspberry">Telegram</a>.
